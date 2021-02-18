@@ -1,0 +1,25 @@
+{
+  "name": "1392782 List",
+  "timestamp": "2021-02-18T00:00:00.000Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://avatars.githubusercontent.com/u/79203565",
+  "keywords": [
+    "1392782",
+    "default"
+  ],
+  "tokens": [
+    {
+      "chainId": 100,
+      "address": "0x4d9849Ad68Ae7E0636B5CABCDe5fC5D695a69717",
+      "name": "X1392782",
+      "symbol": "X1392782",
+      "decimals": 18,
+      "logoURI": "https://avatars.githubusercontent.com/u/79203565"
+    }
+  ]
+}
